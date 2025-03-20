@@ -1,0 +1,30 @@
+{
+  "name": "series-management-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.3",
+    "axios": "^1.4.0",
+    "googleapis": "^123.0.0",
+    "google-spreadsheet": "^4.0.2",
+    "next": "13.4.12",
+    "otplib": "^12.0.1",
+    "pg": "^8.11.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-toastify": "^9.1.3"
+  },
+  "devDependencies": {
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12"
+  }
+}
